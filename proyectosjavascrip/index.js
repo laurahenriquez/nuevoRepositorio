@@ -1,8 +1,3 @@
-function suma(x, y = 0) {
-  let resultadoSuma = x + y;
-  console.log(resultadoSuma);
-}
-
 function resta(x, y = 0) {
   let resultadoResta = x - y;
   console.log(resultadoResta);
